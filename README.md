@@ -50,7 +50,7 @@ Traditional conversational AI systems store excessive context, leading to ineffi
 
 ## 📄 Research Paper
 
-📥 [Download Paper](cmdm-ai-memory-model/paper/CMDM_AI_Memory_Decay.pdf)
+📥 [Download Paper](cmdm-ai-memory-model/paper/Contextual_Memory_Decay_Model_CMDM.pdf)
 
 ---
 
