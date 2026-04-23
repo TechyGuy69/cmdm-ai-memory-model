@@ -1,0 +1,1562 @@
+[
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "what's up",
+    "label": "STM"
+  },
+  {
+    "text": "how are you",
+    "label": "STM"
+  },
+  {
+    "text": "good morning",
+    "label": "STM"
+  },
+  {
+    "text": "good night",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "fine",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "nice",
+    "label": "STM"
+  },
+  {
+    "text": "lol",
+    "label": "STM"
+  },
+  {
+    "text": "haha",
+    "label": "STM"
+  },
+  {
+    "text": "hmm",
+    "label": "STM"
+  },
+  {
+    "text": "alright",
+    "label": "STM"
+  },
+  {
+    "text": "bro what's going on",
+    "label": "STM"
+  },
+  {
+    "text": "just chilling",
+    "label": "STM"
+  },
+  {
+    "text": "nothing much",
+    "label": "STM"
+  },
+  {
+    "text": "random talk",
+    "label": "STM"
+  },
+  {
+    "text": "just testing",
+    "label": "STM"
+  },
+  {
+    "text": "okay got it",
+    "label": "STM"
+  },
+  {
+    "text": "no problem",
+    "label": "STM"
+  },
+  {
+    "text": "sounds good",
+    "label": "STM"
+  },
+  {
+    "text": "yeah sure",
+    "label": "STM"
+  },
+  {
+    "text": "alright cool",
+    "label": "STM"
+  },
+  {
+    "text": "fine okay",
+    "label": "STM"
+  },
+  {
+    "text": "that's nice",
+    "label": "STM"
+  },
+  {
+    "text": "great",
+    "label": "STM"
+  },
+  {
+    "text": "super",
+    "label": "STM"
+  },
+  {
+    "text": "hahaha that's funny",
+    "label": "STM"
+  },
+  {
+    "text": "just checking",
+    "label": "STM"
+  },
+  {
+    "text": "nothing important",
+    "label": "STM"
+  },
+  {
+    "text": "just chatting",
+    "label": "STM"
+  },
+  {
+    "text": "random message",
+    "label": "STM"
+  },
+  {
+    "text": "okay bro",
+    "label": "STM"
+  },
+  {
+    "text": "got it",
+    "label": "STM"
+  },
+  {
+    "text": "okay done",
+    "label": "STM"
+  },
+  {
+    "text": "alright done",
+    "label": "STM"
+  },
+  {
+    "text": "just trying",
+    "label": "STM"
+  },
+  {
+    "text": "hello again",
+    "label": "STM"
+  },
+  {
+    "text": "yo bro",
+    "label": "STM"
+  },
+  {
+    "text": "hey dude",
+    "label": "STM"
+  },
+  {
+    "text": "what's happening",
+    "label": "STM"
+  },
+  {
+    "text": "all good",
+    "label": "STM"
+  },
+  {
+    "text": "fine bro",
+    "label": "STM"
+  },
+  {
+    "text": "nothing serious",
+    "label": "STM"
+  },
+  {
+    "text": "casual talk",
+    "label": "STM"
+  },
+  {
+    "text": "just random stuff",
+    "label": "STM"
+  },
+  {
+    "text": "ok let's see",
+    "label": "STM"
+  },
+  {
+    "text": "cool okay",
+    "label": "STM"
+  },
+  {
+    "text": "alright then",
+    "label": "STM"
+  },
+  {
+    "text": "yep",
+    "label": "STM"
+  },
+  {
+    "text": "nope",
+    "label": "STM"
+  },
+  {
+    "text": "maybe",
+    "label": "STM"
+  },
+  {
+    "text": "let's see",
+    "label": "STM"
+  },
+  {
+    "text": "whatever",
+    "label": "STM"
+  },
+  {
+    "text": "anything",
+    "label": "STM"
+  },
+  {
+    "text": "just saying",
+    "label": "STM"
+  },
+  {
+    "text": "testing message",
+    "label": "STM"
+  },
+  {
+    "text": "checking system",
+    "label": "STM"
+  },
+  {
+    "text": "random input",
+    "label": "STM"
+  },
+  {
+    "text": "dummy text",
+    "label": "STM"
+  },
+  {
+    "text": "nothing useful",
+    "label": "STM"
+  },
+  {
+    "text": "ignore this",
+    "label": "STM"
+  },
+  {
+    "text": "just a test",
+    "label": "STM"
+  },
+  {
+    "text": "quick message",
+    "label": "STM"
+  },
+  {
+    "text": "short text",
+    "label": "STM"
+  },
+  {
+    "text": "temporary thought",
+    "label": "STM"
+  },
+  {
+    "text": "not important",
+    "label": "STM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due on monday",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tonight",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on 25/06/26",
+    "label": "LTM"
+  },
+  {
+    "text": "exam next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam schedule released",
+    "label": "LTM"
+  },
+  {
+    "text": "project deadline tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "project deadline next week",
+    "label": "LTM"
+  },
+  {
+    "text": "project deadline approaching",
+    "label": "LTM"
+  },
+  {
+    "text": "important meeting at 5 pm",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting scheduled tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at 10 am",
+    "label": "LTM"
+  },
+  {
+    "text": "doctor appointment tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "doctor visit scheduled",
+    "label": "LTM"
+  },
+  {
+    "text": "buy groceries tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "buy groceries in evening",
+    "label": "LTM"
+  },
+  {
+    "text": "pay electricity bill",
+    "label": "LTM"
+  },
+  {
+    "text": "pay water bill tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "submit assignment before deadline",
+    "label": "LTM"
+  },
+  {
+    "text": "submit report today",
+    "label": "LTM"
+  },
+  {
+    "text": "prepare presentation slides",
+    "label": "LTM"
+  },
+  {
+    "text": "prepare project documentation",
+    "label": "LTM"
+  },
+  {
+    "text": "important project idea",
+    "label": "LTM"
+  },
+  {
+    "text": "remember this important note",
+    "label": "LTM"
+  },
+  {
+    "text": "save this information",
+    "label": "LTM"
+  },
+  {
+    "text": "important information about project",
+    "label": "LTM"
+  },
+  {
+    "text": "deadline is approaching fast",
+    "label": "LTM"
+  },
+  {
+    "text": "task pending for tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "task pending for next week",
+    "label": "LTM"
+  },
+  {
+    "text": "finish coding project tonight",
+    "label": "LTM"
+  },
+  {
+    "text": "finish assignment soon",
+    "label": "LTM"
+  },
+  {
+    "text": "call teacher about project",
+    "label": "LTM"
+  },
+  {
+    "text": "call client tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "important reminder for meeting",
+    "label": "LTM"
+  },
+  {
+    "text": "remember to study for exam",
+    "label": "LTM"
+  },
+  {
+    "text": "study schedule for exams",
+    "label": "LTM"
+  },
+  {
+    "text": "complete lab assignment",
+    "label": "LTM"
+  },
+  {
+    "text": "complete homework today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting agenda prepared",
+    "label": "LTM"
+  },
+  {
+    "text": "prepare notes for class",
+    "label": "LTM"
+  },
+  {
+    "text": "submit lab report",
+    "label": "LTM"
+  },
+  {
+    "text": "project submission date fixed",
+    "label": "LTM"
+  },
+  {
+    "text": "important college notice",
+    "label": "LTM"
+  },
+  {
+    "text": "remember my password hint",
+    "label": "LTM"
+  },
+  {
+    "text": "save login credentials",
+    "label": "LTM"
+  },
+  {
+    "text": "backup important files",
+    "label": "LTM"
+  },
+  {
+    "text": "backup project data",
+    "label": "LTM"
+  },
+  {
+    "text": "organize study material",
+    "label": "LTM"
+  },
+  {
+    "text": "organize project files",
+    "label": "LTM"
+  },
+  {
+    "text": "prepare for interview",
+    "label": "LTM"
+  },
+  {
+    "text": "interview scheduled tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "important career decision",
+    "label": "LTM"
+  },
+  {
+    "text": "remember meeting details",
+    "label": "LTM"
+  },
+  {
+    "text": "note down important points",
+    "label": "LTM"
+  },
+  {
+    "text": "store this important information",
+    "label": "LTM"
+  },
+  {
+    "text": "urgent work pending",
+    "label": "LTM"
+  },
+  {
+    "text": "urgent assignment submission",
+    "label": "LTM"
+  },
+  {
+    "text": "complete urgent task",
+    "label": "LTM"
+  },
+  {
+    "text": "important exam preparation",
+    "label": "LTM"
+  },
+  {
+    "text": "revise syllabus tonight",
+    "label": "LTM"
+  },
+  {
+    "text": "study important topics",
+    "label": "LTM"
+  },
+  {
+    "text": "prepare for practical exam",
+    "label": "LTM"
+  },
+  {
+    "text": "finish coding task",
+    "label": "LTM"
+  },
+  {
+    "text": "debug project code",
+    "label": "LTM"
+  },
+  {
+    "text": "fix error in program",
+    "label": "LTM"
+  },
+  {
+    "text": "resolve coding issue",
+    "label": "LTM"
+  },
+  {
+    "text": "important bug fix needed",
+    "label": "LTM"
+  },
+  {
+    "text": "submit project code",
+    "label": "LTM"
+  },
+  {
+    "text": "review project work",
+    "label": "LTM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hello",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "cool",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "yo",
+    "label": "STM"
+  },
+  {
+    "text": "ok",
+    "label": "STM"
+  },
+  {
+    "text": "hi",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "hey",
+    "label": "STM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "assignment due tomorrow",
+    "label": "LTM"
+  },
+  {
+    "text": "meeting at next week",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on today",
+    "label": "LTM"
+  },
+  {
+    "text": "exam on next week",
+    "label": "LTM"
+  }
+]
