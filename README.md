@@ -66,14 +66,15 @@ Traditional conversational AI systems store excessive context, leading to ineffi
 
 ## 📂 Project Structure
 
+```
 cmdm-ai-memory-model/
 ├── backend/ # Flask API
 ├── frontend/ # User Interface
 ├── dataset/ # Training data
 ├── images/ # Graphs and visuals
 ├── paper/ # Research paper (PDF)
-├── README.md
-
+└── README.md
+```
 ---
 
 ## ⚠️ Limitations
